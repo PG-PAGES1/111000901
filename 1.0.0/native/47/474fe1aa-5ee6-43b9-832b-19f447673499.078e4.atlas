@@ -1,0 +1,412 @@
+
+xxl.png
+size: 1390,1156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mfmspenhua/info_board_vfx_g_normal_00
+  rotate: false
+  xy: 1246, 416
+  size: 68, 78
+  orig: 270, 270
+  offset: 32, 81
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_01
+  rotate: true
+  xy: 1300, 801
+  size: 97, 88
+  orig: 270, 270
+  offset: 13, 77
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_02
+  rotate: true
+  xy: 1300, 703
+  size: 96, 87
+  orig: 270, 270
+  offset: 24, 84
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_03
+  rotate: true
+  xy: 1294, 1047
+  size: 107, 85
+  orig: 270, 270
+  offset: 23, 90
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_04
+  rotate: false
+  xy: 765, 6
+  size: 130, 86
+  orig: 270, 270
+  offset: 9, 91
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_05
+  rotate: false
+  xy: 361, 3
+  size: 137, 86
+  orig: 270, 270
+  offset: 10, 94
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_06
+  rotate: true
+  xy: 1297, 900
+  size: 145, 87
+  orig: 270, 270
+  offset: 10, 97
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_07
+  rotate: false
+  xy: 785, 198
+  size: 151, 92
+  orig: 270, 270
+  offset: 11, 96
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_08
+  rotate: false
+  xy: 1209, 150
+  size: 157, 97
+  orig: 270, 270
+  offset: 11, 93
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_09
+  rotate: true
+  xy: 1285, 521
+  size: 162, 103
+  orig: 270, 270
+  offset: 12, 89
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_10
+  rotate: true
+  xy: 610, 392
+  size: 167, 109
+  orig: 270, 270
+  offset: 12, 86
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_11
+  rotate: false
+  xy: 771, 94
+  size: 172, 102
+  orig: 270, 270
+  offset: 12, 94
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_12
+  rotate: false
+  xy: 1058, 274
+  size: 176, 105
+  orig: 270, 270
+  offset: 12, 92
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_13
+  rotate: false
+  xy: 583, 11
+  size: 180, 108
+  orig: 270, 270
+  offset: 12, 90
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_14
+  rotate: false
+  xy: 1062, 381
+  size: 182, 113
+  orig: 270, 270
+  offset: 13, 86
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_15
+  rotate: false
+  xy: 583, 121
+  size: 186, 118
+  orig: 270, 270
+  offset: 13, 82
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_16
+  rotate: false
+  xy: 871, 424
+  size: 189, 121
+  orig: 270, 270
+  offset: 13, 79
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_17
+  rotate: false
+  xy: 440, 561
+  size: 192, 126
+  orig: 270, 270
+  offset: 13, 75
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_18
+  rotate: false
+  xy: 213, 415
+  size: 195, 130
+  orig: 270, 270
+  offset: 13, 71
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_19
+  rotate: false
+  xy: 216, 547
+  size: 198, 134
+  orig: 270, 270
+  offset: 14, 68
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_20
+  rotate: true
+  xy: 1156, 832
+  size: 200, 139
+  orig: 270, 270
+  offset: 14, 64
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_21
+  rotate: false
+  xy: 1095, 685
+  size: 203, 145
+  orig: 270, 270
+  offset: 14, 60
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_22
+  rotate: false
+  xy: 871, 547
+  size: 206, 150
+  orig: 270, 270
+  offset: 14, 56
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_23
+  rotate: false
+  xy: 661, 574
+  size: 208, 155
+  orig: 270, 270
+  offset: 15, 52
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_24
+  rotate: false
+  xy: 882, 699
+  size: 211, 160
+  orig: 270, 270
+  offset: 15, 48
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_25
+  rotate: false
+  xy: 666, 731
+  size: 214, 167
+  orig: 270, 270
+  offset: 15, 43
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_26
+  rotate: false
+  xy: 937, 861
+  size: 217, 171
+  orig: 270, 270
+  offset: 15, 39
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_27
+  rotate: false
+  xy: 440, 689
+  size: 219, 177
+  orig: 270, 270
+  offset: 15, 34
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_28
+  rotate: false
+  xy: 216, 683
+  size: 222, 183
+  orig: 270, 270
+  offset: 15, 29
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_29
+  rotate: false
+  xy: 1079, 496
+  size: 204, 187
+  orig: 270, 270
+  offset: 15, 25
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_30
+  rotate: true
+  xy: 2, 54
+  size: 206, 193
+  orig: 270, 270
+  offset: 16, 20
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_31
+  rotate: false
+  xy: 2, 463
+  size: 209, 198
+  orig: 270, 270
+  offset: 16, 15
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_32
+  rotate: false
+  xy: 2, 663
+  size: 212, 203
+  orig: 270, 270
+  offset: 16, 10
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_33
+  rotate: false
+  xy: 208, 256
+  size: 193, 157
+  orig: 270, 270
+  offset: 16, 56
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_34
+  rotate: false
+  xy: 197, 96
+  size: 193, 158
+  orig: 270, 270
+  offset: 16, 54
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_35
+  rotate: false
+  xy: 392, 91
+  size: 189, 152
+  orig: 270, 270
+  offset: 17, 51
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_36
+  rotate: false
+  xy: 595, 241
+  size: 188, 149
+  orig: 270, 270
+  offset: 17, 54
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_37
+  rotate: false
+  xy: 403, 245
+  size: 190, 154
+  orig: 270, 270
+  offset: 17, 50
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_38
+  rotate: false
+  xy: 416, 401
+  size: 192, 158
+  orig: 270, 270
+  offset: 18, 46
+  index: -1
+mfmspenhua/info_board_vfx_g_normal_39
+  rotate: true
+  xy: 197, 7
+  size: 87, 162
+  orig: 270, 270
+  offset: 125, 42
+  index: -1
+xinxizhanshi/info_board_a
+  rotate: false
+  xy: 671, 1034
+  size: 621, 120
+  orig: 621, 120
+  offset: 0, 0
+  index: -1
+xinxizhanshi/info_board_a_02
+  rotate: false
+  xy: 1316, 405
+  size: 59, 52
+  orig: 90, 90
+  offset: 16, 18
+  index: -1
+xinxizhanshi/info_board_b
+  rotate: false
+  xy: 2, 868
+  size: 662, 133
+  orig: 662, 133
+  offset: 0, 0
+  index: -1
+xinxizhanshi/info_board_b_02
+  rotate: false
+  xy: 1316, 459
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+xinxizhanshi/info_board_c
+  rotate: false
+  xy: 2, 1003
+  size: 667, 151
+  orig: 667, 152
+  offset: 0, 1
+  index: -1
+xinxizhanshi/info_board_c_02
+  rotate: false
+  xy: 500, 3
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+xinxizhanshi/info_board_vfx_b_add
+  rotate: false
+  xy: 671, 900
+  size: 264, 132
+  orig: 264, 132
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 2, 262
+  size: 204, 199
+  orig: 211, 199
+  offset: 7, 0
+  index: -1
+zjtx/multiplier_vfx_b_screen_00
+  rotate: false
+  xy: 2, 2
+  size: 56, 50
+  orig: 158, 158
+  offset: 50, 53
+  index: -1
+zjtx/multiplier_vfx_b_screen_01
+  rotate: false
+  xy: 1245, 51
+  size: 108, 97
+  orig: 158, 158
+  offset: 24, 37
+  index: -1
+zjtx/multiplier_vfx_b_screen_02
+  rotate: true
+  xy: 939, 286
+  size: 136, 117
+  orig: 158, 158
+  offset: 11, 28
+  index: -1
+zjtx/multiplier_vfx_b_screen_03
+  rotate: false
+  xy: 945, 8
+  size: 148, 128
+  orig: 158, 158
+  offset: 3, 21
+  index: -1
+zjtx/multiplier_vfx_b_screen_04
+  rotate: false
+  xy: 721, 442
+  size: 148, 130
+  orig: 158, 158
+  offset: 4, 20
+  index: -1
+zjtx/multiplier_vfx_b_screen_05
+  rotate: false
+  xy: 785, 292
+  size: 152, 130
+  orig: 158, 158
+  offset: 0, 20
+  index: -1
+zjtx/multiplier_vfx_b_screen_06
+  rotate: false
+  xy: 1236, 249
+  size: 152, 130
+  orig: 158, 158
+  offset: 0, 20
+  index: -1
+zjtx/multiplier_vfx_b_screen_07
+  rotate: false
+  xy: 1057, 144
+  size: 150, 128
+  orig: 158, 158
+  offset: 1, 21
+  index: -1
+zjtx/multiplier_vfx_b_screen_08
+  rotate: false
+  xy: 1095, 15
+  size: 148, 127
+  orig: 158, 158
+  offset: 3, 20
+  index: -1
+zjtx/multiplier_vfx_b_screen_09
+  rotate: true
+  xy: 945, 138
+  size: 146, 110
+  orig: 158, 158
+  offset: 4, 24
+  index: -1
